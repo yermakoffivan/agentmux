@@ -1032,6 +1032,7 @@ partial list.
 | [`SPEC_ELIMINATE_BASHWRAP_CONSOLE_WINDOWS_2026_06_20`](SPEC_ELIMINATE_BASHWRAP_CONSOLE_WINDOWS_2026_06_20.md) | SPEC: Eliminate Transparent Console Windows on Windows |
 | [`SPEC_ERROR_CATALOG_2026_05_17`](SPEC_ERROR_CATALOG_2026_05_17.md) | SPEC: Global Error Code/Message Catalog |
 | [`SPEC_FE_SOURCE_MAP_RESOLVER_2026_05_27`](SPEC_FE_SOURCE_MAP_RESOLVER_2026_05_27.md) | SPEC: Frontend source-map resolver for piped error stacks |
+| [`SPEC_FILESTORE_WRITE_VOLUME_AND_GROUP_COMMIT_2026_10_19`](SPEC_FILESTORE_WRITE_VOLUME_AND_GROUP_COMMIT_2026_10_19.md) | Spec: the transcript store writes far fewer bytes per append, and appends share a commit |
 | [`SPEC_FILE_TREE_CONTEXT_MENU_2026_06_14`](SPEC_FILE_TREE_CONTEXT_MENU_2026_06_14.md) | SPEC: File Tree Right-Click Context Menu |
 | [`SPEC_FLOATING_PANE_REDOCK_2026-05-27`](SPEC_FLOATING_PANE_REDOCK_2026-05-27.md) | Spec: Floating pane re-dock (with multi-window + drop-target highlighting) |
 | [`SPEC_FORGE_AGENT_IDENTITY_2026_04_13`](SPEC_FORGE_AGENT_IDENTITY_2026_04_13.md) | Spec: Forge Agent Identity — GitHub + AWS + Git |
